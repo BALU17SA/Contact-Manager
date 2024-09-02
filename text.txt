@@ -3,3 +3,8 @@ this is developed by 2
 
 hi
 hwllo
+
+frontend 
+backend
+DataBase
+DSA
